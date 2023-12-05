@@ -1,0 +1,6 @@
+This is a project based on python, 
+Where we can use this project in Pycharm IDE,
+
+Here some necessary packages are imported to perform voice assistant and to activate the microphone in the laptop
+Once it started then we can click the click to speak option, to speak.
+Then we can say some command like, open application, so the particular app will be opened..
